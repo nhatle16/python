@@ -1,0 +1,8 @@
+# ignore all .txt files
+*.txt
+# ignore all .png, .jpeg, .jpg files
+*.jpg
+*.jpeg
+*.png
+# ignore all .ipynb files
+*.ipynb
